@@ -27,7 +27,7 @@ class SiteResource extends Resource
 
     protected static string|\BackedEnum|null $navigationIcon = 'heroicon-o-building-office';
 
-    protected static string|\UnitEnum|null $navigationGroup = 'Customers & sites';
+    protected static string|\UnitEnum|null $navigationGroup = 'Maintenance';
 
     public static function form(Schema $schema): Schema
     {
