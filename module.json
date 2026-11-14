@@ -2,7 +2,7 @@
   "name": "module-maintenance-customers-and-sites-filament",
   "display_name": "Maintenance Customers and Sites Filament",
   "description": "Filament 5 adapter for customers and sites.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "presentation",
   "provider": "Liberu\\Modules\\Maintenance\\CustomersAndSites\\Filament\\CustomersAndSitesFilamentServiceProvider",
   "requires": {
